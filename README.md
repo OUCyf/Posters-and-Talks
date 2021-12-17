@@ -1,5 +1,6 @@
-# Poster
+# Posters and Talks
 Including AGU, SSA, CGU, and other meetings and talks...
+
 
 ## 2021
 [5]. Fu Yin and Baoshan Wang (2021). MCMC-MTpy: A Python Package for Simultaneous Inversion of Source Location, Focal Mechanism, and Rupture Directivity. SSA 2021 Annual Meeting, 6517, Physics-based Earthquake Rupture Modeling and Strong Motion Simulations. Poster.
