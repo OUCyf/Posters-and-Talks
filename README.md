@@ -12,4 +12,4 @@ Including AGU, SSA, CGU, and other meetings and talks...
 
 
 ## 2020
-1. Fu Yin and Baoshan Wang (2020). Inversion of focal mechanism of small earthquakes in Hutubi gas storage area by multi-objective function full waveform matching method. Chinese Geoscience Union Fall Meeting, Chongqing, P.R.China. Oral.
+1. Fu Yin and Baoshan Wang (2020). Inversion of focal mechanism of small earthquakes in Hutubi gas storage area by multi-objective function full waveform matching method. Chinese Geoscience Union Fall Meeting, Chongqing, P.R.China. Oral.  (with the help of Dr. Bo Zhang who did the earthquake location result)
